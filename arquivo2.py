@@ -51,6 +51,3 @@ while True:
         case _:
             print("Opção inválida. Por favor, digite novamente.")
 
-    outro_prato = input("Você deseja escolher outro prato? ").lower()
-    if outro_prato == "não":
-        break
