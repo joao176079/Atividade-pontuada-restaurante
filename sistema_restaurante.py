@@ -19,8 +19,8 @@ nome = input ("Digite o seu nome : ")
 
 print ("""
      Cardápio :
-       
-    1 - Pão com ovo = 4.00 R$
+    
+       1 - Pão com ovo = 4.00 R$
     2 - Strogonoff " Acompanha-se arroz e batata palha " = 28.00
     3 - Feijoada " Acompanha-se arroz e salada " = 24.00
     4 - Bife à milanesa " Acompanha-se arroz e salada " = 28.00
