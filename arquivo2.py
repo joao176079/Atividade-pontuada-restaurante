@@ -78,6 +78,7 @@ while True:
         case 0:
             break
         case _:
+            outro_prato
             print("Opção inexistente. Tente novamente.")
 
 
