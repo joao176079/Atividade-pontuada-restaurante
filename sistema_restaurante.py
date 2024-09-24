@@ -4,7 +4,7 @@ Turma - 93313
 
 Nome completo dos componentes.
 1 - João Victor Agapio Modesto Mendes 
-2 - Nicolas Roger Araujo Monteiro da Silva
+2 - Nicolas Roger
 """
 
 
