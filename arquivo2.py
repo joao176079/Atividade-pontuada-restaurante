@@ -39,35 +39,35 @@ while True:
             lista_preco_acumulado.append(valor)
             lista_dos_pratos.append("1 - Pão com ovo")
         case 2:
-            print("2 - Strogonoff selecionado.")
+            print("Strogonoff selecionado.")
             valor = 28
             lista_preco_acumulado.append(valor)
-            lista_dos_pratos.append("Strogonoff")
+            lista_dos_pratos.append("2 - Strogonoff")
         case 3:
-            print("3 - Feijoada selecionada.")
+            print("Feijoada selecionada.")
             valor = 24
             lista_preco_acumulado.append(valor)
-            lista_dos_pratos.append("Feijoada")
+            lista_dos_pratos.append("3 - Feijoada")
         case 4:
-            print("4 - Bife à milanesa selecionado.")
+            print("Bife à milanesa selecionado.")
             valor = 28
             lista_preco_acumulado.append(valor)
-            lista_dos_pratos.append("Bife à milanesa")
+            lista_dos_pratos.append("4 - Bife à milanesa")
         case 5:
-            print("5 - Hamburguer artesanal selecionado.")
+            print("Hamburguer artesanal selecionado.")
             valor = 30
             lista_preco_acumulado.append(valor)
-            lista_dos_pratos.append("Hamburguer artesanal")
+            lista_dos_pratos.append("5 - Hamburguer artesanal")
         case 6:
-            print("6 - Filé com fritas selecionado.")
+            print("Filé com fritas selecionado.")
             valor = 26
             lista_preco_acumulado.append(valor)
-            lista_dos_pratos.append("Filé com fritas")
+            lista_dos_pratos.append("6 - Filé com fritas")
         case 7:
-            print("7 - Salmão grelhado selecionado.")
+            print("Salmão grelhado selecionado.")
             valor = 32
             lista_preco_acumulado.append(valor)
-            lista_dos_pratos.append("Salmão grelhado")
+            lista_dos_pratos.append("7 - Salmão grelhado")
         case _:
             print("Opção inválida. Por favor, digite novamente.")
 
