@@ -1,3 +1,11 @@
+"""
+Turma - 93313
+
+Nome completo dos componentes:
+1 - Nicolas Roger Araújo Monteiro da Silva
+2 - João Victor Mendes
+"""
+
 import os
 os.system("cls || clear")
 
